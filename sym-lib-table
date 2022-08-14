@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "CH559L")(type "KiCad")(uri "${KIPRJMOD}/Schematic_Library/CH559L.kicad_sym")(options "")(descr ""))
+  (lib (name "TXB0108PWR")(type "KiCad")(uri "${KIPRJMOD}/Schematic_Library/TXB0108PWR.kicad_sym")(options "")(descr ""))
+  (lib (name "AMS1117-3.3")(type "KiCad")(uri "${KIPRJMOD}/Schematic_Library/AMS1117-3.3.kicad_sym")(options "")(descr ""))
+)
